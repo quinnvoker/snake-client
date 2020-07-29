@@ -1,5 +1,4 @@
 const net = require('net');
-const { builtinModules } = require('module');
 
 /**
  * Establishes connection with the game server
